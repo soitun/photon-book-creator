@@ -1,5 +1,6 @@
-# Wakanda Studio
+# Wakanda Studio Getting Started
 
-- [Change log](CHANGELOG.md)
+- [Getting Started](http://wakanda.github.io/wakanda-studio)
 - [Documentation](http://doc.wakanda.org/)
 - [Wakanda.io](http://www.wakanda.io/)
+
