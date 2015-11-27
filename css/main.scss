@@ -4,3 +4,7 @@
 @import "themes/{{ site.theme }}/theme.css";
 @import "layout.css";
 @import "themes/{{ site.theme }}/overrides.css";
+
+html {
+   min-height: 100%;   
+}

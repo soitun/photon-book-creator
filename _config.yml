@@ -1,8 +1,8 @@
 full_rebuild: true
-name: Photon Book Creator
-author: Cédric Soulas
-url: https://github.com/cedricss/photon-book-creator
-version: 1.0
+name: Wakanda Studio
+author: Wakanda SAS
+url: http://wakanda.io
+version: 0.1
 encoding: utf-8
 theme: minimal
 defaults:
