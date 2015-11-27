@@ -6,5 +6,10 @@
 @import "themes/{{ site.theme }}/overrides.css";
 
 html {
-   min-height: 100%;   
+  min-height: 100%;   
+}
+
+nav {
+  background: #fafafa;
+  border-right: 1px solid #efefef;
 }

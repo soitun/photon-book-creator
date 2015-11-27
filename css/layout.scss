@@ -1,7 +1,7 @@
 ---
 ---
 
-$nav-width: 320px;
+$nav-width: 250px;
   
 html {
   padding: 0;
@@ -32,7 +32,7 @@ nav {
 .scroll {
   position: relative;
   overflow-x: hidden;
-  overflow-y: scroll;
+  overflow-y: auto;
   height: 100%;
 }
 
