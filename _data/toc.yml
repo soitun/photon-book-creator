@@ -1,1 +1,17 @@
 entries:
+
+- title: Getting Started
+  pages:
+  
+  - title: Design your data model
+    url: design-data-model.html
+  
+  - title: Prototype your app
+    url: prototype.html
+
+  - title: Create a web app
+    url: create-web-app.html
+ 
+  - title: Create a mobile app
+    url: create-mobile-app.html
+    

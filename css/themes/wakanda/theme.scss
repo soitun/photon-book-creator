@@ -1,0 +1,38 @@
+---
+---
+
+@-webkit-keyframes spin {
+    0%   {-webkit-transform: rotate(360deg)}
+    100% {-webkit-transform: rotate(0deg)}
+}
+
+body {
+    color: #535353;
+    margin: 0 auto;
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+  margin-top: 2px;
+}
+
+a {
+  color:#39c;
+  text-decoration:none;
+}
+
+a:hover {
+  color:#069;
+}
+
+a small {
+  font-size:11px;
+  color:#777;
+  margin-top:-0.3em;
+  display:block;
+}
+
+a:hover small {
+  color:#777;
+}

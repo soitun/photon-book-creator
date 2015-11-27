@@ -1,7 +1,7 @@
 ---
 ---
 
-$nav-width: 250px;
+$nav-width: 230px;
   
 html {
   padding: 0;
@@ -59,7 +59,7 @@ footer {
   }
 }
 
-@media print, screen and(max-width: 820px) {
+@media print, screen and(max-width: 750px) {
   
   nav {
     float: none;
