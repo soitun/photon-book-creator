@@ -31,6 +31,7 @@ entries:
     target: _blank
 
 - title: <hr/>
+  class: inline
   pages:
 
   - title: <i class="fa fa-github"></i>
