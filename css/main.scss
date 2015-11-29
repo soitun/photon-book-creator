@@ -14,15 +14,19 @@ html {
   clear: both;
 }
 
-nav {
-  background: #fafafa;
-  border-right: 1px solid #efefef;
-}
-
 img.inline {
   margin-bottom: -8px;
 }
 
+nav {
+  background: #fafafa;
+  border-right: 1px solid #efefef;
+
+  .fa {
+    font-size: 14px;
+    color: #2B404A;
+  }
+}
 
 section {
   
