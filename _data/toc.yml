@@ -14,4 +14,36 @@ entries:
  
   - title: Create a mobile app
     url: create-mobile-app.html
-    
+
+- title:  Other resources
+  pages:
+
+  - title: Wakanda Documentation
+    url: http://doc.wakanda.org/
+
+  - title: Angular-Wakanda connector
+    url: http://wakanda.github.io/angular-wakanda
+
+  - title: Frequently Asked Questions
+    url: http://www.wakanda.io/frequently-asked-questions
+
+- title: <hr/>
+  pages:
+
+  - title: <i class="fa fa-github"></i>
+    url: https://github.com/wakanda
+
+  - title: <i class="fa fa-twitter"></i>
+    url: https://twitter.com/WakandaSoft
+
+  - title: <i class="fa fa-facebook"></i>
+    url: https://www.facebook.com/wakandasoft
+
+  - title: <i class="fa fa-youtube"></i>
+    url: https://www.youtube.com/user/wakandasoft
+
+  - title: <i class="fa fa-linkedin"></i>
+    url: https://www.linkedin.com/company/wakanda
+
+  - title: <i class="fa fa-rss"></i>
+    url: http://blog.wakanda.io
