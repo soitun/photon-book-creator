@@ -15,6 +15,15 @@ entries:
   - title: 4 - Create a mobile app
     url: create-mobile-app.html
 
+- title: Code management
+  pages:
+  
+  - title: Version control your code
+    url: version-control.html
+
+  - title: Deploy your app
+    url: deploy-your-app.html
+
 - title:  Other resources
   pages:
 
