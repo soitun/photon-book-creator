@@ -75,7 +75,7 @@ footer {
   }
 }
 
-@media print, screen and(max-width: 750px) {
+@media print, screen and(max-width: 650px) {
   
   nav {
     float: none;
@@ -104,7 +104,7 @@ footer {
     margin-left: 0;
     border-width: 1px 0;
     margin: 0 0 20px;
-    padding: 15px 15px 0 15px;
+    padding: 0;
   }
   
   footer {
