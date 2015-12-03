@@ -36,7 +36,7 @@ Close the web preview panel and click again on Run Page. The Studio will install
 
 ## 4 - Code your Angular application
 
-<img src="http://wakanda.github.io/angular-wakanda/images/NG-Wakanda-Pack.png" />
+<img src="http://wakanda.github.io/angular-wakanda/images/angular-wakanda.png" />
 
 Wakanda integrates the Angular framework.
 
