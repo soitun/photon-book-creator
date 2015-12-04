@@ -53,7 +53,7 @@ nav {
 }
 
 section {
-  margin-left: $nav-width;
+  margin-left: $nav-width + 1;
   width:auto;
   float: none;
   min-height: 100%;
