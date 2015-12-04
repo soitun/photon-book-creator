@@ -4,7 +4,7 @@ author: Wakanda SAS
 url: http://wakanda.io
 version: 0.1
 encoding: utf-8
-theme: minimal
+theme: wakanda
 defaults:
   -
     values:

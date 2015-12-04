@@ -1,9 +1,9 @@
 ---
 ---
 
-@import url(themes/minimal/theme.css);
+@import url(themes/{{ site.theme }}/theme.css);
 @import url(layout.css);
-@import url(themes/minimal/overrides.css);
+@import url(themes/{{ site.theme }}/overrides.css);
 @import url(button.css);
 @import url(home.css);
 
