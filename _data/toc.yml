@@ -39,6 +39,10 @@ entries:
     url: http://www.wakanda.io/frequently-asked-questions
     target: _blank
 
+  - title: Issue submission
+    url: https://github.com/Wakanda/wakanda-issues/issues
+    target: _blank
+
 - title: <hr/>
   class: inline
   pages:
