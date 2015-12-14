@@ -20,12 +20,36 @@ img.inline {
 }
 
 nav {
-  background: #fafafa;
-  border-right: 1px solid #efefef;
+  background: #fff;
+  border-right: 1px solid #dddddd;
 
   .fa {
     font-size: 14px;
     color: #2B404A;
+  }
+  
+  h1 {
+    background-color:#fafafa;
+    border-bottom:1px solid #ddd;
+    margin:0 0 30px 0;
+    padding: 30px 10px 30px 26px;
+    color:#323232;
+  }
+
+  h2 {
+    color:#555;
+    padding-left:25px;
+  }
+  
+  h2:before {
+    content: url(../img/bullet.png);
+    padding-right:6px;
+  }
+  
+  li a {
+    color:#14a1c8;
+    line-height:28px;
+    padding-left:5px;
   }
 }
 
