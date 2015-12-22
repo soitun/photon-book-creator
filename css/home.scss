@@ -31,22 +31,22 @@ header.home {
   }
 }
 
-.flex-container {
+.home-container {
   padding:0;
-  margin:0;
-  display:flex;
-  -webkit-flex-flow: row wrap;
+  margin: 0 8px 0 8px;
   justify-content: center;
 }
 
-.flex-item {
+.home-container > div {
+  width: 25%;
+  float: left;
   background-color: #fafafa;
-  border-bottom:3px solid #fff;
-  margin:5px;
-  width:20%;
-  min-width:180px;
-  height:250px;
-  margin:15px 10px;
+  box-sizing: border-box;
+  padding-bottom: 15px;
+  border-style: solid;
+  border-color: #fff;
+  border-width: 16px 8px 0 8px;
+  height:268px;
   &:hover {
     border-bottom:3px solid #ffb800;
     
@@ -123,5 +123,9 @@ section .blocks {
 
   .home {
     display: none;
+  }
+
+  .home-container > div {
+        width: 50%;
   }
 }
