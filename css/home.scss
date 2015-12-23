@@ -33,8 +33,23 @@ header.home {
 
 .home-container {
   padding:0;
-  margin: 0 8px 0 8px;
+  margin: 0 8px 40px 8px;
   justify-content: center;
+  
+  h2 {
+    clear: both;
+    margin: 18px 0 0 10px;
+    color: #A2A2A2;
+    font-weight: 400;
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+  
+  hr {
+    clear: both;
+    color: white;
+    background-color: white;
+  }
 }
 
 .home-container > div {
@@ -50,13 +65,13 @@ header.home {
   &:hover {
     border-bottom:3px solid #ffb800;
     
-    &:hover .stepNumber {
+    &:hover .head {
       background-color: #ffb800;
       color:#fff;
     }
   }
-  
-  .stepNumber {
+
+  .head {
     color:#323232;
     text-align: center;
     height: 50px;
@@ -64,7 +79,20 @@ header.home {
     font-size: 18px;
     line-height: 50px;
   }
-  
+
+  .head .label {
+    font-size: 10px;
+    background-color: white;
+    border-radius: 5px;
+    color: #545454;
+    padding: 4px 8px 4px 8px;
+    text-transform: uppercase;
+    font-weight: bold;
+    position: relative;
+    top: -3px;
+    letter-spacing: 1px;
+  }
+
   a.action {
     .stepPic {
       height: 96px;
@@ -74,8 +102,35 @@ header.home {
       margin-right: auto;
       margin-top: 15px;
       margin-bottom: 20px;
+      background-position: center;
+      background-repeat: no-repeat;
+
+      &.model {
+        background-image: url(../img/pic_model.png);
+      }
+      &.prototype {
+        background-image: url(../img/pic_prototype.png);
+      }
+      &.webApp {
+        background-image: url(../img/pic_webApp.png);
+      }
+      &.mobileApp {
+        background-image: url(../img/pic_mobileApp.png);
+      }
+      &.circle {
+        background-color: white;
+        border-radius: 50%;
+        box-sizing: border-box;
+        border: 4px solid white;
+      }
+      &.deploy {
+        background-image: url(../img/icon-deploy.png);
+      }
+      &.connect {
+        background-image: url(../img/icon-connect.png);
+      }
     }
-    
+        
     display: block;
     width: 100%;
     color: #555555;
@@ -86,24 +141,7 @@ header.home {
       color: #555;
     }
   }
-  
-  .stepPic {
-    &.model {
-      background-image: url(../img/pic_model.png);
-    }
-    &.prototype {
-      background-image: url(../img/pic_prototype.png);
-    }
-    &.webApp {
-      background-image: url(../img/pic_webApp.png);
-    }
-    &.mobileApp {
-      background-image: url(../img/pic_mobileApp.png);
-    }
-  }
-  
 }
-
 
 section .blocks {
   float: left;
