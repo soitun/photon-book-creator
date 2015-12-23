@@ -28,6 +28,8 @@ Retrieve your remote repository URL from [Wakanda Cloud](https://console.wakanda
 
 ### Wakanda Cloud
 
+<a class="no-style" href="http://docs.wakcloud.com/en/latest/getting_started.html" target="_blank">Create a new cloud server instance</a> and copy the Git repository URL:
+
 <img src="img/git-wakanda-cloud.png" />
 
 ### Github
