@@ -43,6 +43,9 @@ entries:
     url: https://github.com/Wakanda/wakanda-issues/issues
     target: _blank
 
+  - title: How to contribute to this page
+    url: CONTRIBUTING.html
+
 - title: <hr/>
   class: inline
   pages:
