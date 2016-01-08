@@ -4,8 +4,6 @@
 @import url(themes/{{ site.theme }}/theme.css);
 @import url(layout.css);
 @import url(themes/{{ site.theme }}/overrides.css);
-@import url(button.css);
-@import url(home.css);
 
 html {
   min-height: 100%;
