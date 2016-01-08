@@ -27,6 +27,9 @@ entries:
 - title:  Other resources
   pages:
 
+  - title: Wakanda Studio Change log
+    url: CHANGELOG.html
+
   - title: Wakanda Documentation
     url: http://doc.wakanda.org/
     target: _blank
