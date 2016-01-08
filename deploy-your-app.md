@@ -8,7 +8,7 @@
 ## Initial setup
 
 - [Create a new cloud server instance](http://docs.wakcloud.com/en/latest/getting_started.html){:class="no-style"}{:target="_blank"}
-- [Setup a remote repository](version-control.html){:class="no-style"}
+- [Setup a remote repository](version-control.html)
 
 ## Deploy
 
@@ -24,4 +24,4 @@ You can now push, for example, on your `production` branch:
 
 Now, manage your app with Wakanda Cloud:
 
-[Manage your app »](http://docs.wakcloud.com/en/latest/application_dashboard.html){:target="blank_"}
+[Manage your app »](http://docs.wakcloud.com/en/latest/application_dashboard.html){:target="blank_"}{:class="btn"}

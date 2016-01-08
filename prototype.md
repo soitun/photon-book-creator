@@ -19,7 +19,7 @@
 
 <img src="img/prototyper.png" />
 
-[Learn more »](http://doc.wakanda.org/home2.en.html#/GUI-Designer/GUI-Designer.100-1051423.en.html){:target="_blank"}
+[Learn more »](http://doc.wakanda.org/home2.en.html#/GUI-Designer/GUI-Designer.100-1051423.en.html){:target="_blank"}{:class="btn"}
 
 ## 3 - Run your page
 
@@ -36,4 +36,4 @@
 
 Now, create a web application with Wakanda and Angular:
 
-[Create a web app »](create-web-app.html)
+[Create a web app »](create-web-app.html){:class="btn"}

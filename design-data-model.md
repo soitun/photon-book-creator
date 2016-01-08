@@ -18,7 +18,7 @@
 
 <img src="img/model-designer.png" />
 
-[Learn more »](http://doc.wakanda.org/home2.en.html#/Datastore-Model-Designer/Datastore-Model-Designer.100-1051416.en.html){:target="_blank"}
+[Learn more »](http://doc.wakanda.org/home2.en.html#/Datastore-Model-Designer/Datastore-Model-Designer.100-1051416.en.html){:target="_blank"}{:class="btn"}
 
 > <img class="inline" src="img/toolbar-reload-buttons.png" />
 >
@@ -28,4 +28,4 @@
 
 Now, you can quickly prototype an app to validate your model and add some data.
 
-[Prototype your app »](prototype.html)
+[Prototype your app »](prototype.html){:class="btn"}
