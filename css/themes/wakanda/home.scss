@@ -3,7 +3,7 @@
 
 header.home {
   position: relative;
-  background: url(../img/circle.png) no-repeat center center, url(../img/background.png) repeat;
+  background: url(../../../img/circle.png) no-repeat center center, url(../../../img/background.png) repeat;
   background-color:#eeeded;
   width: 100%;
   height: 257px;
@@ -106,16 +106,16 @@ header.home {
       background-repeat: no-repeat;
 
       &.model {
-        background-image: url(../img/pic_model.png);
+        background-image: url(../../../img/pic_model.png);
       }
       &.prototype {
-        background-image: url(../img/pic_prototype.png);
+        background-image: url(../../../img/pic_prototype.png);
       }
       &.webApp {
-        background-image: url(../img/pic_webApp.png);
+        background-image: url(../../../img/pic_webApp.png);
       }
       &.mobileApp {
-        background-image: url(../img/pic_mobileApp.png);
+        background-image: url(../../../img/pic_mobileApp.png);
       }
       &.circle {
         background-color: white;
@@ -124,10 +124,10 @@ header.home {
         border: 4px solid white;
       }
       &.deploy {
-        background-image: url(../img/icon-deploy.png);
+        background-image: url(../../../img/icon-deploy.png);
       }
       &.connect {
-        background-image: url(../img/icon-connect.png);
+        background-image: url(../../../img/icon-connect.png);
       }
     }
         

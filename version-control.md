@@ -24,11 +24,11 @@ Add changes to your stage and commit:
 
 <h2 id="remote">Add a remote repository</h2>
 
-Retrieve your remote repository URL from [Wakanda Cloud](https://console.wakanda.io){:target="_blank"}{:class="no-style"} or Github:
+Retrieve your remote repository URL from [Wakanda Cloud](https://console.wakanda.io){:target="_blank"} or Github:
 
 ### Wakanda Cloud
 
-<a class="no-style" href="http://docs.wakcloud.com/en/latest/getting_started.html" target="_blank">Create a new cloud server instance</a> and copy the Git repository URL:
+[Create a new cloud server instance](http://docs.wakcloud.com/en/latest/getting_started.html){:target="_blank"} and copy the Git repository URL:
 
 <img src="img/git-wakanda-cloud.png" />
 
@@ -54,16 +54,16 @@ You can however leave the Username and Password fields empty and cache your pass
 
     git config --global credential.helper osxkeychain
     
-<a class="no-style" target="_blank" href="https://help.github.com/articles/caching-your-github-password-in-git/#platform-mac">More info »</a>
+[More info  »](https://help.github.com/articles/caching-your-github-password-in-git/#platform-mac){:target="_blank"}
 
 **Windows**
 
     git config --global credential.helper wincred
     
-<a class="no-style" target="_blank" href="https://help.github.com/articles/caching-your-github-password-in-git/#platform-windows">More info »</a>
+[More info  »](https://help.github.com/articles/caching-your-github-password-in-git/#platform-windows){:target="_blank"}
 
 ---
 
 Now, deploy your app:
 
-[Deploy your app »](deploy-your-app.html)
+[Deploy your app »](deploy-your-app.html){:class="btn"}

@@ -2,7 +2,7 @@
 ---
 
 section {
-  a {
+  .btn {
     font-size: 12px;
     box-sizing: border-box;
     border: none;
@@ -41,7 +41,7 @@ section {
     }
   }
   
-  a.no-style {
+  a {
     background-color: transparent;
     padding: 0;
     margin: 0;
@@ -79,7 +79,7 @@ section {
       background-color: #5cb85c;
   }
 
-  a:hover {
+  a.btn:hover {
       text-decoration: none;
       background-color: #52687e;
       color:white;

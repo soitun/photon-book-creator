@@ -26,7 +26,7 @@ You can move the web preview on the right panel:
 
 <img src="img/console-livereload-info.png" />
     
-If you want the page to reload automatically after any file changes occur, please install <a class="no-style" href="https://nodejs.org/">node</a> and gulp:
+If you want the page to reload automatically after any file changes occur, please install <a target="_blank" href="https://nodejs.org/">node</a> and gulp:
 
     npm install -g gulp
     
@@ -40,11 +40,11 @@ Close the web preview panel and click again on Run Page. The Studio will install
 
 Wakanda integrates the Angular framework.
 
-[Learn more »](http://wakanda.github.io/angular-wakanda/){:target="_blank"}
+[Learn more »](http://wakanda.github.io/angular-wakanda/){:target="_blank"}{:class="btn"}
 
 ---
 
 You can also create a mobile version of your application, based on the same backend.
 
-[Create the mobile version »](create-mobile-app.html)
+[Create the mobile version »](create-mobile-app.html){:class="btn"}
 
