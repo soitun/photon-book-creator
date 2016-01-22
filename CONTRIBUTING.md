@@ -3,8 +3,6 @@
 
 # Getting Started website
 
----
-
 ## How to contribute?
 
 ### Table of contents

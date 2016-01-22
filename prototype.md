@@ -1,9 +1,7 @@
 ---
 ---
 
-<header>
-<h1>Prototype your app</h1>
-</header>
+# Prototype your app
 
 ## 1 - Open the default page prototype
 

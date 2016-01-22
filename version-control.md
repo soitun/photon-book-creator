@@ -1,26 +1,18 @@
 ---
 ---
 
-<header>
-<h1>Version control your code</h1>
-</header>
-
----
+# Version control your code
 
 ## Create a repository
 
 From the solution explorer, click on <img class="inline" src="img/git-shortcut.png" /> to open Git.
 Then, click on _Create Git Repository_.
 
----
-
 ## Commit your changes
 
 Add changes to your stage and commit:
 
 <img src="img/git-commit.png" />
-
----
 
 <h2 id="remote">Add a remote repository</h2>
 
