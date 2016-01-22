@@ -1,9 +1,7 @@
 ---
 ---
 
-<header>
-<h1>Design your data model</h1>
-</header>
+# Design your data model
 
 ## 1 - Open your model
 

@@ -1,9 +1,7 @@
 ---
 ---
 
-<header>
-<h1>Create a mobile app</h1>
-</header>
+# Create a mobile app
 
 ## Preview in the Studio
 

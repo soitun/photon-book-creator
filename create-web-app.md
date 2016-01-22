@@ -1,9 +1,7 @@
 ---
 ---
 
-<header>
-<h1>Create a web app</h1>
-</header>
+# Create a web app
 
 ## 1 - Run your web application in the Studio
 

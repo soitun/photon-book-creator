@@ -1,9 +1,7 @@
 ---
 ---
 
-<header>
-<h1>Deploy your app</h1>
-</header>
+# Deploy your app
 
 ## Initial setup
 

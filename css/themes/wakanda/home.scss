@@ -148,6 +148,10 @@ section .blocks {
   width: 420px;
 }
 
+#home #contribute {
+    display: none;
+}
+
 @media print, screen and(max-width: 1060px) {
   section {
     .getting-started {

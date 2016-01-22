@@ -3,8 +3,6 @@
 
 # Getting Started website
 
----
-
 ## How to contribute?
 
 ### Table of contents
@@ -15,9 +13,9 @@
 
 ### Your first contribution
 
-[Sign in](https://github.com/login) to your Github account.
+[Sign in](https://github.com/login){:target="_blank"} to your Github account.
 
-[On the Wakanda Studio repository](https://github.com/Wakanda/wakanda-studio), make sure you are on the [gh-pages](https://github.com/Wakanda/wakanda-studio/tree/gh-pages) branch:
+[On the Wakanda Studio repository](https://github.com/Wakanda/wakanda-studio){:target="_blank"}, make sure you are on the [gh-pages](https://github.com/Wakanda/wakanda-studio/tree/gh-pages){:target="_blank"} branch:
 
 ![gh-pages](img/readme-gh-pages.png)
 

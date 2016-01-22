@@ -3,8 +3,6 @@
 
 # Change log
 
----
-
 ## 1.0.1 (Dec. 17)
 
 - Fixed Prototyper bug [#19](https://github.com/Wakanda/wakanda-issues/issues/19)
