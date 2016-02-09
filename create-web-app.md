@@ -7,7 +7,9 @@
 
 Click on the Run Page toolbar button:
 
-<img src="img/run-page.png" />
+<img src="img/web-run-page.png"/>
+
+[Activate live reload](installation.html#increase-your-productivity) to reload automatically the page after any file changes occur.
 
 ## 2 - Customize the panels
 
@@ -17,20 +19,6 @@ Open the right panel from the toolbar toggles:
 You can move the web preview on the right panel:
 <img src="img/web-app-creation.png" />
 
-> **TIPS**: to open the preview in your default browser, open the Run Page dropdown:
-> <img src="img/run-page-dropdown.png" />
-
-## 3 - Enable live reload
-
-<img src="img/console-livereload-info.png" />
-    
-If you want the page to reload automatically after any file changes occur, please install <a target="_blank" href="https://nodejs.org/">node</a> and gulp:
-
-    npm install -g gulp
-    
-Close the web preview panel and click again on Run Page. The Studio will install automatically the live-reload requierements:
-
-<img src="img/console-livereload-requirements.png" />
 
 ## 4 - Code your Angular application
 
