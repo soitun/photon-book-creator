@@ -3,9 +3,16 @@
 
 # Create a web app
 
-## 1 - Run your web application in the Studio
+## Table of contents
 
-Click on the Run Page toolbar button:
+- [Run your web application](#run-your-web-application)
+- [Customize the panels](#customize-the-panels)
+- [Enable live reload](#enable-live-reload)
+- [Code your Angular application](#code-your-angular-application)
+
+## 1 - Run your web application
+
+Click on the _Run Page_ toolbar button:
 
 <img src="img/web-run-page.png"/>
 
@@ -13,12 +20,17 @@ Click on the Run Page toolbar button:
 
 ## 2 - Customize the panels
 
-Open the right panel from the toolbar toggles:  
+Open the right panel from the toolbar toggles:
+
 <img src="img/panel-toggles.png" />
 
 You can move the web preview on the right panel:
+
 <img src="img/web-app-creation.png" />
 
+To open your application in your default browser, set this preference via _Run Page_ dropdown:
+
+<img src="img/web-run-dropdown.png" />
 
 ## 4 - Code your Angular application
 
