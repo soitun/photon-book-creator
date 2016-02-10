@@ -32,6 +32,9 @@ The simulator starts automatically and loads your app:
 
 ## Run on devices
 
+- **iOS devices**: sign up for an Apple Developer account and set up XCode with your certificates to enable device testing. You can [build your iOS app](#build-your-app) and open the XCode project generated in `platforms/ios/` to test the configuration.
+- **Android devices**: make sure you have [USB debugging enabled](http://developer.android.com/tools/device.html).
+
 Wakanda Studio automatically detects supported device connected to the USB port.
 Open the _Run_ dropdown and select the device to run on:
 
