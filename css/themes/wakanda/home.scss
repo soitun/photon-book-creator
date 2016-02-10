@@ -148,8 +148,10 @@ section .blocks {
   width: 420px;
 }
 
-#home #contribute {
-    display: none;
+#home {
+    #contribute, #chapter {
+      display: none;   
+    }
 }
 
 @media print, screen and(max-width: 1060px) {
