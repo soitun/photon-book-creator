@@ -3,34 +3,34 @@
 
 # Create a web app
 
-## 1 - Run your web application in the Studio
+## Table of contents
 
-Click on the Run Page toolbar button:
+- [Run your web application](#run-your-web-application)
+- [Customize the panels](#customize-the-panels)
+- [Enable live reload](#enable-live-reload)
+- [Code your Angular application](#code-your-angular-application)
 
-<img src="img/run-page.png" />
+## 1 - Run your web application
+
+Click on the _Run Page_ toolbar button:
+
+<img src="img/web-run-page.png"/>
+
+[Activate live reload](installation.html#increase-your-productivity) to reload automatically the page after any file changes occur.
 
 ## 2 - Customize the panels
 
-Open the right panel from the toolbar toggles:  
+Open the right panel from the toolbar toggles:
+
 <img src="img/panel-toggles.png" />
 
 You can move the web preview on the right panel:
+
 <img src="img/web-app-creation.png" />
 
-> **TIPS**: to open the preview in your default browser, open the Run Page dropdown:
-> <img src="img/run-page-dropdown.png" />
+To open your application in your default browser, set this preference via _Run Page_ dropdown:
 
-## 3 - Enable live reload
-
-<img src="img/console-livereload-info.png" />
-    
-If you want the page to reload automatically after any file changes occur, please install <a target="_blank" href="https://nodejs.org/">node</a> and gulp:
-
-    npm install -g gulp
-    
-Close the web preview panel and click again on Run Page. The Studio will install automatically the live-reload requierements:
-
-<img src="img/console-livereload-requirements.png" />
+<img src="img/web-run-dropdown.png" />
 
 ## 4 - Code your Angular application
 

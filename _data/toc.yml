@@ -3,6 +3,9 @@ entries:
 - title: Getting Started
   pages:
   
+  - title: 0 - Installation
+    url: installation.html
+  
   - title: 1 - Design your data model
     url: design-data-model.html
   
