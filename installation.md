@@ -12,8 +12,8 @@
 
 ## Install Wakanda
 
-Download the latest Wakanda **Community Edition** on <a href="https://wakanda.github.io/">wakanda.github.io</a>. 
-Find the **Enterprise Edition** on <a href="http://wakanda.io">wakanda.io</a>.
+Download the latest Wakanda **Community Edition** on [wakanda.github.io](https://wakanda.github.io/){:target="blank_"}.
+Find the **Enterprise Edition** on [wakanda.io](http://wakanda.io/){:target="blank_"}.
 
 - On Windows, double-click on the `wakanda-digital-app-factory-xxx.msi` file to launch the installation wizard.
 - On Mac OS X, open `wakanda-digital-app-factory-xxx.dmg` file and copy `Wakanda Studio` and `Wakanda Server` in your `Applications` folder:
@@ -42,7 +42,7 @@ The following message in the console warns you when live reload is deactivated:
 
 <img src="img/console-livereload-info.png" />
     
-If you want the page to reload automatically after any file changes occur, please install <a target="_blank" href="https://nodejs.org/">node</a> and gulp:
+If you want the page to reload automatically after any file changes occur, please install [node](https://nodejs.org/){:target="blank_"} and gulp:
 
     npm install -g gulp
     
