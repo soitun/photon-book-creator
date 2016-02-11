@@ -4,6 +4,7 @@
 @import url(button.css);
 @import url(home.css);
 @import url(mailing.css);
+@import url(search.css);
 
 nav {
   hr {
@@ -11,8 +12,9 @@ nav {
   }
 
   h1 {
-    margin-top: 40px;
+    margin: 0 0 10px 0;
     font-size: 18px;
+    padding: 20px 10px 10px 26px;
     a, a:visited {
       color: black;
     }
