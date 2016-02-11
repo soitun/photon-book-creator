@@ -10,7 +10,7 @@
 `web/prototype/index.waPage`
 
 > **TIPS**: 
-> - click on <img class="inline" src="img/explorer-settings-shortcut.png"> to change the view options (the `.wapPage` extension is hidden by default)
+> - click on <img class="inline" src="img/explorer-settings-shortcut.png"> to change the view options (the `.waPage` extension is hidden by default)
 > - click on <img class="inline" src="img/prototyper-shortcut.png"> to quickly access the `page prototype` index
 
 ## 2 - Prototype your page
