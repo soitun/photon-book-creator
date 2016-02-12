@@ -10,7 +10,7 @@ $color-highlight-text: #14A1C8;
 $color-selected-background: #FAFAFA;
 $color-selected-text: black;
 $color-left-column-bg: white;
-$color-left-column: black;
+$color-left-column: #5C5C5C;;
 
 $breakpoint-medium: 468px;
 $breakpoint-large: 650px;
@@ -77,7 +77,6 @@ $dropdown-min-width-large: 650px;
 
 // Each suggestion
 .algolia-docsearch-suggestion {
-  color: #333;
   cursor: pointer;
   overflow: hidden;
 }
@@ -135,10 +134,13 @@ $dropdown-min-width-large: 650px;
 .algolia-docsearch-suggestion--subcategory-column {
   display: none;
   cursor: default;
+  font-weight: 600;
+  font-size: 15px;
 }
 // The text snippet is hidden on small screens
 .algolia-docsearch-suggestion--text {
   display: none;
+  color: #989898;
 }
 
 .algolia-docsearch-suggestion--content {
