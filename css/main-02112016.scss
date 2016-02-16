@@ -3,6 +3,7 @@
 
 @import url(themes/{{ site.theme }}/theme.css);
 @import url(layout.css);
+@import url(pygment.css);
 @import url(themes/{{ site.theme }}/overrides.css);
 
 html {
